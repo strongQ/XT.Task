@@ -1,0 +1,12 @@
+E:\github\XT\XT.Task\bin\Release\net8.0\XT.Task.deps.json
+E:\github\XT\XT.Task\bin\Release\net8.0\XT.Task.dll
+E:\github\XT\XT.Task\bin\Release\net8.0\XT.Task.pdb
+E:\github\XT\XT.Task\obj\Release\net8.0\XT.Task.csproj.AssemblyReference.cache
+E:\github\XT\XT.Task\obj\Release\net8.0\XT.Task.GeneratedMSBuildEditorConfig.editorconfig
+E:\github\XT\XT.Task\obj\Release\net8.0\XT.Task.AssemblyInfoInputs.cache
+E:\github\XT\XT.Task\obj\Release\net8.0\XT.Task.AssemblyInfo.cs
+E:\github\XT\XT.Task\obj\Release\net8.0\XT.Task.csproj.CoreCompileInputs.cache
+E:\github\XT\XT.Task\obj\Release\net8.0\XT.Task.dll
+E:\github\XT\XT.Task\obj\Release\net8.0\refint\XT.Task.dll
+E:\github\XT\XT.Task\obj\Release\net8.0\XT.Task.pdb
+E:\github\XT\XT.Task\obj\Release\net8.0\ref\XT.Task.dll

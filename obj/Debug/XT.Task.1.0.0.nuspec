@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>XT.Task</id>
+    <version>1.0.0</version>
+    <authors>hihifun</authors>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/strongQ/XT.Task</projectUrl>
+    <description>扩展 FreeScheduler,便于使用</description>
+    <repository type="git" commit="1488d10f25f7a2ee7a52dd3c53825a08c2757528" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="FreeScheduler" version="2.0.16" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="XT.FeSql" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\github\XT.Task\bin\Debug\net8.0\XT.Task.dll" target="lib\net8.0\XT.Task.dll" />
+    <file src="E:\github\XT.Task\README.md" target="\README.md" />
+  </files>
+</package>
